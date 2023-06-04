@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giftson</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-![image](https://user-images.githubusercontent.com/86658799/170707289-d3222794-58a6-473c-a930-bb5f5bb14751.png)
+![image](https://avatars.githubusercontent.com/u/86658799?s=400&u=73d9512df495b63d96f74d5be47b4f7071ae5e05&v=4)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=g1f7son&label=Profile%20views&color=0e75b6&style=flat" alt="g1f7son" /> </p>
 
